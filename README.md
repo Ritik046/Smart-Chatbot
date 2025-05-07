@@ -127,5 +127,5 @@ Feel free to contribute, raise issues, or provide feedback to improve the NaysaC
 
 **Made With Love 🧡**
 
-©2024 Ayesha. All rights reserved.
+©2025 Ritik. All rights reserved.
 
