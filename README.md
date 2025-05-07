@@ -1,10 +1,10 @@
-# NaysaChatBot
+# SmartChatBot
 [Check out my Project](https://github.com/ayesha19765/Smart-Chatbot-Integration-for-Enhanced-Food-Ordering-Experience)
 
 ## Project Description:
 
 ### Overview:
-NaysaChatBot is an intelligent and interactive chatbot system designed to revolutionize the food ordering experience. The chatbot provides users with a seamless and personalized platform to place, modify, and track their food orders, enhancing overall customer satisfaction. Built with cutting-edge technologies, NaysaChatBot automates order processing while providing real-time updates and data-driven insights.
+SmartChatBot is an intelligent and interactive chatbot system designed to revolutionize the food ordering experience. The chatbot provides users with a seamless and personalized platform to place, modify, and track their food orders, enhancing overall customer satisfaction. Built with cutting-edge technologies, NaysaChatBot automates order processing while providing real-time updates and data-driven insights.
 
 ---
 
